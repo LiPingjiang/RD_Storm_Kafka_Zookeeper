@@ -4,7 +4,7 @@
 
 This is a scala project to build a local All-in-One Zookeeper-Kafka-Storm system with Rapid Deployment. It is easy for learning, demo, testing, deploying in local machine/single server. And it is easy to expand to clusters mode.
 
-This struct for the code is prety simple. The entrance for each application(now there is only one app) is class/object which contains the "Main" function under folder "application", you can fellow the code in "Main" function and find the whole structure.
+This structure for the code is prety simple. The entrance for each application(now there is only one app) is class/object which contains the "Main" function under folder "application", you can fellow the code in "Main" function and find the whole structure.
 
 
 ## Run Test
